@@ -7,7 +7,7 @@ class Calculator {
 public class ClassObjectDemo {
     public static void main(String[] args) {
         Calculator calc = new Calculator();
-        int result = calc.add(5, 10);
+        int result = calc.add(20, 10);
         System.out.println("Sum: " + result);
     }
 }
