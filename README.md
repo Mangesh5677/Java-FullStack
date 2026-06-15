@@ -1,2 +1,7 @@
-## Learning Progress
-- Week 2: Core Java (Methods, Arrays, Strings, Constructors, Encapsulation)
+## Week 2 Progress 🚀
+- Methods
+- Method Overloading
+- Arrays and Multidimensional Arrays
+- Strings and StringBuilder
+- Encapsulation
+- Constructors
