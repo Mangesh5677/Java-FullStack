@@ -1,92 +1,148 @@
-# Core Java ☕
+# ☕ Core Java Learning Journey
 
-This folder contains my Core Java learning programs, notes, and practice exercises as part of my Java Full Stack journey.
+## 📖 Overview
 
-## Topics Covered
+This repository contains my notes, exercises, and practice programs completed while learning Core Java. The course covered Java fundamentals, Object-Oriented Programming (OOP), arrays, strings, inheritance, polymorphism, and other essential concepts required for Java backend development.
 
-### Basics
-- Introduction to Java
-- JDK, JRE, JVM
-- Installing Java
-- First Java Program
-- Variables and Data Types
-- Operators
+---
 
-### Control Statements
-- if, if-else
-- switch
-- for loop
-- while loop
-- do-while loop
+## 🚀 Topics Covered
 
-### Object-Oriented Programming (OOP)
-- Class and Object
-- Constructor
-- Inheritance
-- Polymorphism
-- Abstraction
-- Encapsulation
+### 1. Java Fundamentals
 
-### Arrays
-- Single Dimensional Array
-- Multi Dimensional Array
+* Introduction to Java
+* JDK, JRE, JVM
+* Java Setup (JDK & IntelliJ IDEA)
+* First Java Program
+* How Java Works
+* Variables
+* Data Types
+* Literals
+* Type Conversion
 
-### Strings
-- String Class
-- String Methods
-- StringBuffer
-- StringBuilder
+### 2. Operators
 
-### Exception Handling
-- try-catch
-- finally
-- throw
-- throws
+* Arithmetic Operators
+* Relational Operators
+* Logical Operators
 
-### Collections Framework
-- ArrayList
-- LinkedList
-- HashSet
-- HashMap
+### 3. Control Flow Statements
 
-## Daily Progress
+* If Statement
+* If-Else Statement
+* If-Else-If Ladder
+* Ternary Operator
+* Switch Statement
 
-### Day 1
-- Installed Java and VS Code
-- Created First Java Program
-- Learned Variables and Data Types
+### 4. Loops
 
-### Day 2
-- Learned Operators
-- Practiced Conditional Statements
+* While Loop
+* Do-While Loop
+* For Loop
+* Choosing the Right Loop
 
-### Day 3
-- Learned Loops
-- Solved Pattern Programs
+### 5. Object-Oriented Programming (OOP)
 
-### Day 4
-- Learned Classes and Objects
-- Created Student Class Program
+* Classes and Objects
+* Methods
+* Method Overloading
+* Constructors
+* Default vs Parameterized Constructors
+* Encapsulation
+* Getters and Setters
+* this Keyword
+* Anonymous Objects
 
-### Day 5
-- Learned Inheritance
-- Practiced Single and Multilevel Inheritance
+### 6. Memory Management
 
-## Commands
+* Stack Memory
+* Heap Memory
 
-Compile:
-```bash
-javac FileName.java
-```
+### 7. Arrays
 
-Run:
-```bash
-java FileName
-```
+* One-Dimensional Arrays
+* Multi-Dimensional Arrays
+* Jagged Arrays
+* 3D Arrays
+* Array of Objects
+* Enhanced For Loop
 
-## Goal
-- Complete Core Java
-- Learn Advanced Java
-- Learn JDBC
-- Learn Spring Boot
-- Become a Java Full Stack Developer 🚀
+### 8. Strings
+
+* String Class
+* Mutable vs Immutable Strings
+* StringBuffer
+* StringBuilder
+
+### 9. Static Keyword
+
+* Static Variables
+* Static Methods
+* Static Blocks
+
+### 10. Inheritance
+
+* Need for Inheritance
+* Single Inheritance
+* Multilevel Inheritance
+* Multiple Inheritance (Concept)
+* super Keyword
+
+### 11. Polymorphism
+
+* Method Overriding
+* Dynamic Method Dispatch
+* Upcasting and Downcasting
+
+### 12. Packages & Access Control
+
+* Packages
+* Access Modifiers
+* Naming Conventions
+
+### 13. Advanced Java Concepts
+
+* final Keyword
+* Object Class
+* equals()
+* hashCode()
+* toString()
+* Wrapper Classes
+
+---
+
+## 🛠 Skills Gained
+
+* Java Programming Fundamentals
+* Problem Solving
+* Object-Oriented Programming
+* Memory Management Concepts
+* Working with Arrays and Strings
+* Inheritance and Polymorphism
+* Code Organization using Packages
+* Understanding JVM Architecture
+
+---
+
+## 🎯 Next Learning Goals
+
+* Exception Handling
+* Collections Framework
+* Java 8 Features (Streams & Lambda)
+* Multithreading
+* JDBC
+* Spring Boot
+* Data Structures & Algorithms
+* Backend Development
+
+---
+
+## 👨‍💻 Author
+
+**Mangesh Shinde**
+
+* B.Tech (3rd Year)
+* Java & Full Stack Development Enthusiast
+* Passionate about Backend Development and Problem Solving
+
+⭐ If you find this repository useful, feel free to star it!
